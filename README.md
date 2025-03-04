@@ -1,5 +1,8 @@
 Deployment of webapp using GitHub, Maven, Jenkins, Ansible, and Docker
 
+
+![frontend](https://github.com/user-attachments/assets/69cf86c5-b789-4823-a32a-278e278df25e)
+
 ![jenkins](https://github.com/user-attachments/assets/766eb894-0321-418b-97eb-586b81af3d76)
 
 
@@ -8,5 +11,3 @@ Deployment of webapp using GitHub, Maven, Jenkins, Ansible, and Docker
 
 ![Mobaxterm](https://github.com/user-attachments/assets/dc1bce98-853c-46e5-86d1-bcd71d573bd0)
 
-
-![frontend](https://github.com/user-attachments/assets/69cf86c5-b789-4823-a32a-278e278df25e)
